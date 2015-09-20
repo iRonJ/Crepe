@@ -1,0 +1,7 @@
+/data/dbpedia_csv/readme.txt
+/data/dbpedia_csv/classes.txt
+/data/dbpedia_csv.tar.gz
+/data/dbpedia_csv/train.csv
+/data/dbpedia_csv/test.csv
+*.t7b
+
